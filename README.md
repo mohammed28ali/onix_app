@@ -16,7 +16,7 @@ Onix app is open-source  app for Android & IOS. It is built with Dart on Google'
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/mohammed28ali/onic_app
+$ git clone https://github.com/mohammed28ali/onix_app
 $ cd onix_app/
 ```
 
